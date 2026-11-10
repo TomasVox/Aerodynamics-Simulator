@@ -1,2 +1,2 @@
 # Aerodynamics Simulator
-Simulador hecho en OpenGL siguiendo las leyes de la aerodinamica. Determina si un objeto vuela o no, permitiendo visualizar su trayectoria.
+Simulador hecho en OpenGL siguiendo las leyes de la aerodinamica y las ecuaciones de Navier-Stokes. Visualiza el comportamiento del aire y su influencia en los objetos.
